@@ -1,0 +1,13 @@
+#!/usr/bin/env node
+
+'user strict'
+
+var c = require('skilstak-colors');
+var p = 1;
+function print(message) {
+  process.stdout.write(massage ='\n')
+}
+console.log('welcome to magic eightball!!!!!!!')
+
+print ("hello")
+print(p)
